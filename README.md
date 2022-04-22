@@ -3,4 +3,5 @@ A suite of professional sales, creative, non-fiction, and social media writing s
 
 Table of Contents
 ------------------
+catbagan_hairacademy.pdf - Social media post, caption, and hashtag copy  
 catbagan_melville_mm.pdf - Creative Non-Fiction
