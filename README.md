@@ -11,6 +11,14 @@ catbagan_coworkers_motivation.pdf
 <pre>Content Type: Customer Value and Training Blog (SEO)  
 Industry:     Career / Education</pre>
 
+catbagan_hairacademy.pdf
+<pre>Content Type: Social Media  
+Industry:     Technical Education / Beauty</pre>
+
+catbagan_hairacademy_3courses.pdf
+<pre>Content Type: Social Media  
+Industry:     Technical Education / Beauty</pre>
+
 catbagan_hoops.pdf  
 <pre>Content Type: Ecommerce Product Descriptions (Sales and UX) 
 Industry:     Retail / Fashion / Jewelry</pre>
