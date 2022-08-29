@@ -3,6 +3,10 @@ A suite of professional sales, creative, non-fiction, and social media writing s
 
 Table of Contents
 ------------------
+catbagan_beer_facts.pdf
+<pre>Content Type: Social Media Advertising  
+Industry:     Retail / Food Service </pre>
+
 catbagan_cafe.pdf
 <pre>Content Type: Social Media Customer Acquisition & Merchandising  
 Industry:     Retail / Food Service </pre>
