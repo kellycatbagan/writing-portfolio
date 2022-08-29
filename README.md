@@ -3,20 +3,24 @@ A suite of professional sales, creative, non-fiction, and social media writing s
 
 Table of Contents
 ------------------
+catbagan_cafe.pdf
+<pre>Content Type: Social Media Customer Acquisition & Merchandising  
+Industry:     Retail / Food Service </pre>
+
 catbagan_coachable_employee.pdf
 <pre>Content Type: Customer Value Blog (SEO)  
 Industry:     Career / Education </pre>
 
 catbagan_coworkers_motivation.pdf
-<pre>Content Type: Customer Value and Training Blog (SEO)  
+<pre>Content Type: Customer Value & Training Blog (SEO)  
 Industry:     Career / Education</pre>
 
 catbagan_hairacademy.pdf
-<pre>Content Type: Social Media  
+<pre>Content Type: Social Media Customer Acquisition  
 Industry:     Technical Education / Beauty</pre>
 
 catbagan_hairacademy_3courses.pdf
-<pre>Content Type: Social Media  
+<pre>Content Type: Social Media Customer Acquisition  
 Industry:     Technical Education / Beauty</pre>
 
 catbagan_hoops.pdf  
